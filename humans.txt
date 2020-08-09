@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rishabh Garg    rishabhgargdps@gmail.com
 
 # THANKS
 
